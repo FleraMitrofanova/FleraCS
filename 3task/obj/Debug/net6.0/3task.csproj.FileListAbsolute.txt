@@ -1,0 +1,15 @@
+C:\Users\user\Documents\programming\c#\3task\obj\Debug\net6.0\3task.csproj.AssemblyReference.cache
+C:\Users\user\Documents\programming\c#\3task\obj\Debug\net6.0\3task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\programming\c#\3task\obj\Debug\net6.0\3task.AssemblyInfoInputs.cache
+C:\Users\user\Documents\programming\c#\3task\obj\Debug\net6.0\3task.AssemblyInfo.cs
+C:\Users\user\Documents\programming\c#\3task\obj\Debug\net6.0\3task.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\programming\c#\3task\bin\Debug\net6.0\3task.exe
+C:\Users\user\Documents\programming\c#\3task\bin\Debug\net6.0\3task.deps.json
+C:\Users\user\Documents\programming\c#\3task\bin\Debug\net6.0\3task.runtimeconfig.json
+C:\Users\user\Documents\programming\c#\3task\bin\Debug\net6.0\3task.dll
+C:\Users\user\Documents\programming\c#\3task\bin\Debug\net6.0\3task.pdb
+C:\Users\user\Documents\programming\c#\3task\obj\Debug\net6.0\3task.dll
+C:\Users\user\Documents\programming\c#\3task\obj\Debug\net6.0\refint\3task.dll
+C:\Users\user\Documents\programming\c#\3task\obj\Debug\net6.0\3task.pdb
+C:\Users\user\Documents\programming\c#\3task\obj\Debug\net6.0\3task.genruntimeconfig.cache
+C:\Users\user\Documents\programming\c#\3task\obj\Debug\net6.0\ref\3task.dll
